@@ -8,25 +8,6 @@
 Sou um estudante em Análise e Desenvolvimento de Sistemas, apaixonado por criar soluções inovadoras e resolver problemas complexos. Atualmente, estou focado em aprimorar minhas habilidades na área e sempre em busca de novos desafios!
 
 
-
-### 🛠️ Linguagens e Ferramentas
-
-*  **Front-end:** HTML, CSS, JavaScript, React
-
-*  **Back-end:** Python, Node.js
-
-*  **Design:** Figma
-
-*  **Outros:** Git, Metodologias Ágeis
-
-
-
-### 🚀 Projetos em Destaque
-
-*  [Nome do Projeto 1](link) - Breve descrição do que foi feito e tecnologias usadas.
-
-*  [Nome do Projeto 2](link) - Breve descrição do que foi feito e tecnologias usadas.
-
 ### 📫 Como me encontrar
 
 [![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@email.com)](mailto:caio.cesar.serafim@gmail.com)
